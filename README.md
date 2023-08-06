@@ -4,3 +4,4 @@ C program codes
 2. print fabonacci sequence
 3. print n natural number
 4. CONVERT CELSIUS TO FAHRENHEIT
+5. program to check if a number is prime or not
