@@ -1,2 +1,2 @@
-# code
+# C language codes
 C program codes
