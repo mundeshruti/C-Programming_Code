@@ -6,3 +6,4 @@ C program codes
 4. CONVERT CELSIUS TO FAHRENHEIT
 5. program to check if a number is prime or not
 6. print the table of a number
+7. program to check if a given number is natural number.
